@@ -1,0 +1,6 @@
+{
+   "inputUri":"gs://brysonworldvideo/samplevideo/Brysons-All-July-2008-MOV16F.mp4",
+   "features": [
+       "LABEL_DETECTION"
+   ]
+}
