@@ -1,0 +1,17 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "gs://brysonworldvideo/samplevideo/PIC_0015.JPG"
+        }
+      },
+      "features": [
+        {
+          "type": "FACE_DETECTION",
+          "maxResults": 1
+        },
+      ]
+    }
+  ]
+}

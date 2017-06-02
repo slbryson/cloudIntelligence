@@ -1,0 +1,17 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "gs://brysonworldvideo/samplevideo/P4020303.jpg"
+        }
+      },
+      "features": [
+        {
+          "type": "FACE_DETECTION",
+          "maxResults": 1
+        },
+      ]
+    }
+  ]
+}
